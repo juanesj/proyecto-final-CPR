@@ -1,0 +1,10 @@
+algoritmo de codigo de proyecto final
+
+1. informacion del  asegurado,  edad, estado civil, cantidad de hijos y cantidad de propiedades.
+2. Verificar si es mayor de edad. Si no lo es, indicar que no es elegible.
+3. sacar precio , que puede ser un valor fijo o puede ser ingresado por el usuario.
+4. sacar los recargos extra basados en la edad del asegurado y su cónyuge. Para esto, se puede utilizar una estructura condicional para evaluar en qué rango de edad se encuentra cada uno y aplicar el recargo correspondiente.
+5. obtener los recargos extra basados en la cantidad de hijos del asegurado. Para esto, se puede utilizar otra estructura condicional para aplicar el recargo correspondiente.
+6. obtener los recargos extra basados en la cantidad de propiedades del asegurado. Para esto, se puede utilizar otra estructura condicional para aplicar el recargo correspondiente.
+7. Sumar el precio base y los recargos extra para obtener el precio total del plan.
+dar el precio total al usuario y preguntar si desea realizar otra cotización. Si el usuario ingresa "Salir", finalizar el programa. Si no, volver al paso 1.
